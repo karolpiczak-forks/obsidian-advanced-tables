@@ -1,5 +1,12 @@
 # Advanced Tables for Obsidian
 
+## Install
+
+- `npm run build`
+- copy `main.js`, `manifest.json`, `styles.css`
+
+## Overview
+
 Add improved navigation, formatting, and manipulation to markdown tables in Obsidian:
 
 - Auto formatting
